@@ -4,7 +4,7 @@
 ## I'm a Student, Web Enthusiast, love JS So Much
 
 - 🔭 I just launched my new JS project
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently focusing on learning Frontend Web Development
 - 👯 I’m looking to collaborate with other web developers and creators
 - 🥅 2022 Goals: Bein a Fullstack Developer
 
