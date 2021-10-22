@@ -3,8 +3,8 @@
 
 ## I'm a Student, Web Enthusiast, love JS So Much
 
-- 🔭 I just launched my new JS project
-- 🌱 I’m currently focusing on learning Frontend Web Development
+- 🔭 I just launched my new JS project [project]
+- 🌱 I’m currently focusing on learning Frontend Web Development 🤣
 - 👯 I’m looking to collaborate with other web developers and creators
 - 🥅 2022 Goals: Bein a Fullstack Developer
 
@@ -23,4 +23,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
-
+[project]: https://filteroo.vercel.app/
