@@ -1,14 +1,14 @@
 ### Hi there, I'M Muhammad Robi Sasaki or Sasakiroo 👋
 
 
-## I'm a Student, Web Enthusiast, love JS So Much
+## I'm a Student, Web Enthusiast, love JS So Much 😍
 
-- 🔭 I just launched my new JS project [project]
+- 🔭 I'M Working on my JavaScript Project.
 - 🌱 I’m currently focusing on learning Frontend Web Development 🤣
 - 👯 I’m looking to collaborate with other web developers and creators
-- 🥅 2022 Goals: Bein a Fullstack Developer
+- 🥅 2022 Goals: Being a Fullstack Developer
 
-### Connect with me:
+### ⛓️ Connect with me:
 
 
 [<img align="left" alt="sasakiroo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -23,4 +23,3 @@
 
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
-[project]: https://filteroo.vercel.app/
