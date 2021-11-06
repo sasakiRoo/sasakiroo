@@ -16,7 +16,10 @@
 
 <br />
 
+❤ donasi/donate: 
+https://saweria.co/sasakiroo
 
+<br/>
 
 
 
