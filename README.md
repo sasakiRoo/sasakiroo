@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other web developers and creators
 - 🥅 2022 Goals: Being a Fullstack Developer
 
-### ⛓ Connect with me:
+### Connect with me:
 
 
 [<img align="left" alt="sasakiroo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
