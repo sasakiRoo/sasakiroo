@@ -3,7 +3,7 @@
 
 ## I'm a Student, Web Enthusiast, love JS So Much 😍
 
-- 🔭 I'M Working on my JavaScript Project.
+- 🔭 My latest project: [filterox]
 - 🌱 I’m currently focusing on learning Frontend Web Development 🤣
 - 👯 I’m looking to collaborate with other web developers and creators
 - 🥅 2022 Goals: Being a Fullstack Developer
@@ -18,7 +18,7 @@
 
 
 
-
+[filterox]: https://filterox.netlify.app
 [donate]: https://saweria.co/sasakiroo
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
