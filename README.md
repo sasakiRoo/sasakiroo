@@ -18,13 +18,13 @@
 
 ### Support
 
-🇮🇩  [donate]
+🇮🇩  [donasi]
 🌐  [donate]
 
 
 
 [filterox]: https://filterox.netlify.app
-[donate]: https://saweria.co/sasakiroo
+[donasi]: https://saweria.co/sasakiroo
 [donate]: paypal.me/sasakiroo
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
