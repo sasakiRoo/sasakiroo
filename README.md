@@ -18,7 +18,6 @@
 
 ### Support
 
-🇮🇩  [donasi]
 🌐  [donate]
 
 
