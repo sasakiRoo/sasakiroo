@@ -24,7 +24,7 @@
 
 [filterox]: https://filterox.netlify.app
 [donasi]: https://saweria.co/sasakiroo
-[donate]: paypal.me/sasakiroo
+[donate]: https://paypal.me/sasakiroo
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
 [tiktok]: tiktok.com/@boringcodes
