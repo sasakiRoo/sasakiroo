@@ -3,7 +3,7 @@
 
 ## I'm a Student, Web Enthusiast, love JS So Much 😍
 
-- 🔭 My latest project: [filterox]
+- 🔭 My latest project: [quoteskita]
 - 🌱 I’m currently focusing on learning Frontend Web Development 🤣
 - 👯 I’m looking to collaborate with other web developers and creators
 - 🥅 2022 Goals: Being a Fullstack Developer
@@ -23,7 +23,7 @@
 
 
 
-[filterox]: https://filterox.netlify.app
+[quoteskita]: https://quoteskita.netlify.app
 [donasi]: https://saweria.co/sasakiroo
 [donate]: https://paypal.me/sasakiroo
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
