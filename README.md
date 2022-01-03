@@ -16,9 +16,10 @@
 [<img align="left" alt="sasakiroo | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 <br>
-### Support
+### Support:
 
 🌐  [donate]
+<br>
 🇮🇩  [donasi]
 
 
