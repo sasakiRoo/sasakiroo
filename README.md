@@ -1,6 +1,6 @@
 ### Hi there, I'm Sasakiroo 👋
 
-## I'm a Student, Web, Mobile Programming
+## I'm a Student, wish to have a Web, Mobile Programming passion
 
 ### Connect with me:
 
