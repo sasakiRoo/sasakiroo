@@ -1,12 +1,6 @@
-### Hi there, I'M Muhammad Robi Sasaki or Sasakiroo 👋
+### Hi there, I'm Sasakiroo 👋
 
-
-## I'm a Student, Web Enthusiast, love JS So Much 😍
-
-- 🔭 My latest project: [quoteskita]
-- 🌱 I’m currently focusing on learning Frontend Web Development 🤣
-- 👯 I’m looking to collaborate with other web developers and creators
-- 🥅 2022 Goals: Being a Fullstack Developer
+## I'm a Student, Web, Mobile Programming
 
 ### Connect with me:
 
