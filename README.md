@@ -6,8 +6,8 @@ Now I am currently learning React Native to build mobile app(s).
 
 ### My portfolio can be seen here: <br>
 [<img align="left" alt="sasakiroo | Website" width="22px" src="https://cdn.jsdelivr.net/npm/boxicons@2.1.2/svg/regular/bx-globe.svg" />][Website]
-
 <br>
+
 ### Connect with me:
 
 [<img align="left" alt="sasakiroo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
