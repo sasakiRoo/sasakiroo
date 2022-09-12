@@ -4,8 +4,8 @@ I wish to have a very well-skilled Web and Mobile Programming.
 <br>
 Now I am currently learning React Native to build mobile app(s).
 
-### My portfolio can be seen here:
-[<img align="left" alt="sasakiroo | Website" width="22px" src="https://cdn.jsdelivr.net/npm/boxicons@2.1.2/svg/regular/bx-globe-alt.svg" />][Website]
+### My portfolio can be seen here: <br>
+[<img align="left" alt="sasakiroo | Website" width="22px" src="https://cdn.jsdelivr.net/npm/boxicons@2.1.2/svg/regular/bx-globe.svg" />][Website]
 
 
 ### Connect with me:
