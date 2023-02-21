@@ -1,12 +1,10 @@
 ### Hi there, I'm Sasakiroo 👋
 
-I wish to have a very well-skilled Web and Mobile Programming.
-<br>
-Now I am currently learning React Native to build mobile app(s).
+Having an interest in Web Programming and Content Creation.
 
-### My portfolio can be seen here: <br>
-[<img align="left" alt="sasakiroo | Website" width="22px" src="https://cdn.jsdelivr.net/npm/boxicons@2.1.2/svg/regular/bx-globe.svg" />][Website]
-<br>
+Currently building my own site with the newest web tech stack.
+
+Go Check my Social Media to see more.
 
 ### Connect with me:
 
@@ -15,19 +13,6 @@ Now I am currently learning React Native to build mobile app(s).
 [<img align="left" alt="sasakiroo | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 
-<br> <br>
-
-### Support - Dukungan:
-
-🌐  [donate]
-<br>
-🇮🇩  [donasi]
-
-
-
-[donasi]: https://saweria.co/sasakiroo
-[donate]: https://paypal.me/sasakiroo
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
 [tiktok]: tiktok.com/@boringcodes
-[Website]: https://sasakiroo.tech
