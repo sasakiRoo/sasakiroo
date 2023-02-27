@@ -16,5 +16,3 @@ Go Check my Social Media to see more.
 [youtube]: https://www.youtube.com/channel/UCze-cYXPTvZtiKSaJ0BR5Yg
 [instagram]: https://instagram.com/sasakiroo___
 [tiktok]: tiktok.com/@boringcodes
-
-```system.out.println("Thank you!")```
