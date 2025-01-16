@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasakiroo" alt="sasakiroo" /></a> </p>
 
-- 🌱 I’m currently on learning Typescript and making open source projects**
+- 🌱 I’m currently on learning Typescript and making open source projects
+- The latest open source project which i'm working on:
+- repo [https://github.com/sasakiRoo/socmed_viewership_analysis]
 
 - My Blog [https://sasakeee.medium.com/](https://sasakeee.medium.com/)
 
