@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently on learning Typescript and making open source projects
 - The latest open source project which i'm working on:
-- repo [https://github.com/sasakiRoo/socmed_viewership_analysis]
+- repo [https://github.com/sasakiRoo/socmed_viewership_analysis](https://github.com/sasakiRoo/socmed_viewership_analysis)
 
 - My Blog [https://sasakeee.medium.com/](https://sasakeee.medium.com/)
 
