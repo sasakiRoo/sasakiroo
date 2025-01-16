@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasakiroo" alt="sasakiroo" /></a> </p>
 
-- 🌱 I’m currently on learning Backend **Express JS, Firebase**
+- 🌱 I’m currently on learning Typescript and making open source projects**
 
 - My Blog [https://sasakeee.medium.com/](https://sasakeee.medium.com/)
 
