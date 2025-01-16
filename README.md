@@ -27,6 +27,5 @@
 
 ### Looking for opportunities
 
-As a developer eager to take on new challenges, I'm looking for opportunities to bring my frontend expertise to a team where I can contribute to building great digital experiences. If you're hiring or need a passionate developer for a new project, feel free to reach out!
-
-PS: in case you see my this year contribution graph, i mostly active on private repo.
+As a developer eager to take on new challenges, I'm looking for opportunities to contribute to open source projects! feel free to reach out to
+EMAIL: **sasakiroo301021@gmail.com**
