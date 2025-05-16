@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Sasakiroo</h1>
-<h3 align="center">A self-taught full stack web programming from Indonesia.</h3>
+<h3 align="center">A self-taught frontend programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasakiroo&label=Profile%20views&color=0e75b6&style=flat" alt="sasakiroo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasakiroo" alt="sasakiroo" /></a> </p>
 
-- 🌱 I’m currently on learning Typescript and making open source projects
-- The latest open source project which i'm working on:
-- repo [https://github.com/sasakiRoo/socmed_viewership_analysis](https://github.com/sasakiRoo/socmed_viewership_analysis)
+- 🌱 I’m currently building my own software products
+  <h4>Latest Projct(s):</h4>
+    <ul>
+      <li>
+        [https://memefive.my.id](https://memefive.my.id)
+      </li>
+    </ul>
+- My Open Repo(s)
+  <h4>Top Repo</h4>
+    <ul>
+      <li>
+        [https://github.com/sasakiRoo/filterox-repo](https://github.com/sasakiRoo/filterox-repo)
+      </li>
+    </ul>
+  <h4>Latest open repo</h4>
+  <ul>
+      <li>
+        [https://github.com/sasakiRoo/socmed_viewership_analysis](https://github.com/sasakiRoo/socmed_viewership_analysis)
+      </li>
+  </ul>
 
-- My Blog [https://sasakeee.medium.com/](https://sasakeee.medium.com/)
-
-- 💬 Ask me about Web Programming related stuff! Especially my main focuses: **Vue, Nuxt**
 
 - 📫 How to reach me **sasakiroo301021@gmail.com**
-
-- ⚡ Fun fact **I share memes related to Tech on my Facebook page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +41,5 @@
 
 ### Looking for opportunities
 
-As a developer eager to take on new challenges, I'm looking for opportunities to contribute to open source projects! feel free to reach out to
+As a developer eager to take on new challenges, I'm looking for opportunities to contribute to open source projects or any other opportunities available! feel free to reach out to
 EMAIL: **sasakiroo301021@gmail.com**
