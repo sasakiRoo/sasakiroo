@@ -6,25 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasakiroo" alt="sasakiroo" /></a> </p>
 
 - 🌱 I’m currently building my own software products
-  <h4>Latest Projct(s):</h4>
-    <ul>
-      <li>
-        [https://memefive.my.id](https://memefive.my.id)
-      </li>
-    </ul>
+  ### Latest Projct(s)
+    - [https://memefive.my.id](https://memefive.my.id)
+      
 - My Open Repo(s)
-  <h4>Top Repo</h4>
-    <ul>
-      <li>
-        [https://github.com/sasakiRoo/filterox-repo](https://github.com/sasakiRoo/filterox-repo)
-      </li>
-    </ul>
-  <h4>Latest open repo</h4>
-  <ul>
-      <li>
-        [https://github.com/sasakiRoo/socmed_viewership_analysis](https://github.com/sasakiRoo/socmed_viewership_analysis)
-      </li>
-  </ul>
+  ### Top Repo
+  - [https://github.com/sasakiRoo/filterox-repo](https://github.com/sasakiRoo/filterox-repo)
+      
+  ### Latest open repo
+  - [https://github.com/sasakiRoo/socmed_viewership_analysis](https://github.com/sasakiRoo/socmed_viewership_analysis)
+      
 
 
 - 📫 How to reach me **sasakiroo301021@gmail.com**
